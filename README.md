@@ -2,7 +2,7 @@
 
 A machine learning project that predicts whether a reported crime in India is likely to be classified as **high intensity** (homicide, assault, sexual assault, robbery, kidnapping, domestic violence, arson, firearm offense) or **low intensity**, based on historical case data.
 
-**[Live demo →](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/)**
+**[Live demo →](https://pankajkumar-05.github.io/Crime-Intensity-Prediction/)**
 
 ## About
 
@@ -38,7 +38,7 @@ python3 -m http.server 8000
 # then open http://localhost:8000
 ```
 
-Or enable **GitHub Pages** in this repo's Settings → Pages → set source to the `main` branch, and it will be live at `https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/`.
+Or enable **GitHub Pages** in this repo's Settings → Pages → set source to the `main` branch, and it will be live at `https://pankajkumar-05.github.io/Crime-Intensity-Prediction/`.
 
 ## Disclaimer
 
